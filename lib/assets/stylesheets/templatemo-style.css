@@ -73,7 +73,7 @@ a:focus {
 }
 
 .tm-navbar.scroll {
-  background-color: white;
+  background-color: white; /* C'est ici qu'on change la couleur de la navbar */
   border-bottom: 1px solid #e9ecef;
 }
 
